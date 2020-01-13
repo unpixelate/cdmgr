@@ -1,0 +1,1 @@
+go test ./src/cmd/cmd/test
